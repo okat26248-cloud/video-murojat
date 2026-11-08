@@ -1,0 +1,6 @@
+{
+  "name": "Andijon Viloyati Fuqarolar Video Murojaatlari — Tumanlar Kesimidagi Situatsion Monitoring Markazi",
+  "description": "Andijon viloyatining barcha 16 ta tuman va shaharlari bo'yicha video murojaatlarni real vaqt rejimida qabul qilish, interaktiv xaritada tahlil qilish va nazorat qilish platformasi.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
